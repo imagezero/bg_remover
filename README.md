@@ -2,7 +2,7 @@
 
 Remove Background from Images
 
-![demo](https://imagezerow.com/imgs/c.gif)
+![demo](c.gif)
 
 
 This also provides a remove bg command line tool that lets
